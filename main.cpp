@@ -14,7 +14,7 @@ void fibonacciSeries();
 void lucasSeries();
 void tribonacciSeries();
 int fibonacci(int n);
-int lucas(int n);
+int lucas(int n);9
 int tribonacci(int n);
 
 int main() {
